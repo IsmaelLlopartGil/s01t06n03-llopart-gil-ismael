@@ -1,10 +1,6 @@
-package edu.n6.exercise_1;
+package edu.n3.exercise_1;
 
 public class SmartPhone implements Phone, Camera {
-
-	public SmartPhone() {
-		
-	}
 
 	@Override
 	public void call(String phoneNumber) {

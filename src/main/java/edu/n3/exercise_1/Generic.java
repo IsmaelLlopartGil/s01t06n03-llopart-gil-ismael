@@ -1,4 +1,4 @@
-package edu.n6.exercise_1;
+package edu.n3.exercise_1;
 
 public class Generic {
 
@@ -7,7 +7,7 @@ public class Generic {
 	//	phone.toPhotograph();   
 	//	SmartPhone smartphone=(SmartPhone)phone;
 	//	smartphone.toPhotograph();   
-		System.out.println("No pot invocar al mètode to Photograph tret que es castegi, amb els problemes derivats en temps d'execució.");
+		System.out.println("El mètode call no pot invocar al mètode to Photograph tret que es castegi.");
 	}
 	
 	public void toPhotograph(SmartPhone smartphone) {

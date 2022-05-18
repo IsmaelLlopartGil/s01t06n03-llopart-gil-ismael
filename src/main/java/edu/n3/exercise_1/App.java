@@ -1,4 +1,4 @@
-package edu.n6.exercise_1;
+package edu.n3.exercise_1;
 
 public class App {
 
@@ -9,5 +9,4 @@ public class App {
 		generic.call(smartPhone);
 		generic.toPhotograph(smartPhone);
 	}
-
 }
